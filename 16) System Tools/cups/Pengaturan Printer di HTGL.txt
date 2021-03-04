@@ -1,0 +1,5 @@
+pertama install cups dan lsb
+apt install cups lsb
+kedua download dripvernya
+ketiga configurasi pada webbrowser
+http://localhost:631
